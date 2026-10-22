@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Water Quality Monitoring System
 
 An Arduino-based mini project that measures pH and estimated Total Dissolved Solids (TDS), displays readings on a 16x2 I2C LCD, and alerts the user with LEDs and a buzzer when readings exceed configured limits.
@@ -55,3 +56,6 @@ These are configurable screening thresholds, not a certification of drinking-wat
 
 ## Limitations
 This system only screens pH and estimated TDS. It does not detect bacteria, heavy metals, pesticides, or all contaminants. A reading within limits does not prove water is safe to drink; certified laboratory testing is needed where safety matters.
+=======
+# Water-Quality-Monitoring-System
+>>>>>>> 7c2045c2bbebe51f343a63b17fcac2166479ffc8
